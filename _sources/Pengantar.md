@@ -30,9 +30,8 @@ title: Pengantar
             </tr>
             <tr>
                 <td>Sistem Persamaan Linier</td>
-                <td><a target="_blank" rel="noopener noreferrer" href="https://moelaab.github.io/kal/ppt/Pertemuan1.html">Pengantar&nbsp;</a></td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://moelaab.github.io/kal/ppt/Pertemuan2/Pertemuan2.html">SPL&nbsp;</a></td>
+                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>Eigenvalue dan Eigenvector</td>
