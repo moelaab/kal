@@ -2,8 +2,8 @@
 title: Pengantar
 
 ---
-
-<h1 style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:var(--pst-color-muted);font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;font-size:var(--pst-font-size-h1);font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:500;letter-spacing:normal;line-height:1.15;margin:0px 0px 1.05rem;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">Pengantar Aljabar Linier</h1>
+## ## Pengantar Aljabar Linier
+<h1 style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:var(--pst-color-muted);font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;font-size:var(--pst-font-size-h1);font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:500;letter-spacing:normal;line-height:1.15;margin:0px 0px 1.05rem;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;"></h1>
 <p style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:rgb(34, 40, 50);font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin-bottom:1.15rem;margin-top:0px;orphans:2;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">Kuliah ini membahas tentang teori matriks dan aljabar linier, dan mengkaji beberapa implementasi dalam disiplin ilmu lain terutama untuk sain data. Aljabar linier adalah salah satu cabang matematika yang mempelajari sistem persamaan linier dan sifat-sifat matriks. Konsep aljabar linier sangat berguna dalam fisika, ilmu ekonomi dan sosial, ilmu alam, dan teknik. Karena penerapannya yang luas, maka aljabar linier adalah salah satu mata pelajaran yang sangat perlu untuk dipelajari lebih mendalam</p>
 <figure class="table">
     <table>
@@ -30,7 +30,8 @@ title: Pengantar
             </tr>
             <tr>
                 <td>Sistem Persamaan Linier</td>
-                <td>SPL</td>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://moelaab.github.io/kal/ppt/Pertemuan1.html">Pengantar&nbsp;</a></td>
+                <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
